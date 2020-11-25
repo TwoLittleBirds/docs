@@ -1,2 +1,6 @@
-docs/
-    readme.md
+site_name: Marshmallow Generator
+repo_url: https://github.com/TwoLittleBirds/docs/
+
+nav:
+    - 'readme.md'
+    
