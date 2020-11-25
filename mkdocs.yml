@@ -1,5 +1,6 @@
 site_name: Marshmallow Generator
 repo_url: https://github.com/TwoLittleBirds/docs/
+theme: readthedocs
 
 nav:
     - 'index.md'
